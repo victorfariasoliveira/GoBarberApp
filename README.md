@@ -3,7 +3,7 @@ GoBarberApp
 </h1>
 
 <p align="center">
-  <img src="public/assets/demo.png" width="150">
+  <img src="public/assets/demo.png" width="200">
 </p>
 <p align="center">App do projeto GoBarber</p>
 <hr>
